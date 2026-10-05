@@ -1,0 +1,7 @@
+data/
+*.pt
+__pycache__/
+outputs/
+outputs_fixed/
+outputs_pose/*.pkl
+outputs_pose/*.log
